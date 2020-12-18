@@ -6,8 +6,8 @@
 - [x] Course II
 - [x] Course III
 - [x] Course IV
-- [x] Course V
-<br>~~Course VI~~
+- [x] Course V<br>
+~~Course VI~~
 
 ## 
 <img src="resource/rrt.gif">
