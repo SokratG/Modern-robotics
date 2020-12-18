@@ -7,7 +7,7 @@
 - [x] Course III
 - [x] Course IV
 - [ ] Course V (in progress)
-- ~~Course VI~~ (didn't take)
+- [ ] ~~Course VI~~ (didn't take)
 
 ##
 ## For C++ need - <a href="http://eigen.tuxfamily.org/index.php?title=Main_Page">Eigen library</a>
