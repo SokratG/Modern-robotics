@@ -9,10 +9,13 @@
 - [] Course V (in progress)
 - ~~Course VI~~ (didn't take)
 
+##
+## For C++ need - <a href="http://eigen.tuxfamily.org/index.php?title=Main_Page">Eigen library</a>
+
 ## 
+## path planning RRT:
 <img src="resource/rrt.gif">
 
+## Robot arm dynamic:
 <img src="resource/arm.gif">
 
-##
-For C++ need - <a href="http://eigen.tuxfamily.org/index.php?title=Main_Page">Eigen library</a>
