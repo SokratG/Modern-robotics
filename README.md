@@ -7,7 +7,7 @@
 - [x] Course III
 - [x] Course IV
 - [x] Course V
-- ~~Course VI~~
+- ~~Course VI~~(didn't take)
 
 ## 
 <img src="resource/rrt.gif">
