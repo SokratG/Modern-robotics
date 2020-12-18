@@ -6,7 +6,7 @@
 - [x] Course II
 - [x] Course III
 - [x] Course IV
-- [x] Course V<br>
+- [x] Course V
 
 ~~Course VI~~
 
