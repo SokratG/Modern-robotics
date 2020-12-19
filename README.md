@@ -1,4 +1,4 @@
-# <a href="https://www.coursera.org/specializations/modernrobotics">Modern Robotics Coursera</a>
+# <a href="https://www.coursera.org/specializations/modernrobotics">Modern Robotics: Mechanics, Planning, and Control Coursera</a>
 ## Repository with solution programming assignments
 
 ##
