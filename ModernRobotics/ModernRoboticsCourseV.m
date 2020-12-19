@@ -6,7 +6,7 @@ F = [[0, 0, -1, 2]; [-1, 0, 1, 0]; [0, -1, 0, 1]];
 beq = [0, 0, 0];
 
 % test not form closure
-x_1 = [2 2 3 3]
+x_1 = [2 2 3 3.5]
 y_1 = [1 3 1 2]
 angles_1 = [pi/4, -pi/4, 3*pi/4, 5*pi/4]
 % test form closure
