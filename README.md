@@ -6,7 +6,7 @@
 - [x] Course II
 - [x] Course III
 - [x] Course IV
-- [ ] Course V (in progress)
+- [ ] Course V
 - [ ] ~~Course VI~~ (didn't take)
 
 ##
